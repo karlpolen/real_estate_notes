@@ -6,13 +6,11 @@ output:
     toc_float: true
 ---
 
-# Background
+# Abstract
 
-After 40 years of working in real estate, I thought I'd share what I think I know.  To understand where I'm coming from, I think it might be useful to share something about my experience and what I think I've learned.
+This is an unfiltered compendium of thoughts from 40 years experience developing, operating and investing in real estate.  Organized in three parts -- what works, what doesn't and thoughts for the future.
 
-During these 40 years, I've worked on every property type in multiple jurisdiction across and have played many roles.  I started as an accountant, then became an analyst.  I switched to property operations and worked for a year in a sales position to "round me out" for management roles.  Later I was a chief financial officer, then a chief operating officer and finally a chief investment officer. 
-
-I've worked every kind of transaction.  I've negotiated hundreds of leases, collected the rent and evicted tenants who didn't pay.
+Perhaps I will polish to a more cohesive article in the future.  But for now, this is it.
 
 # What works 
 
@@ -20,61 +18,62 @@ I've worked every kind of transaction.  I've negotiated hundreds of leases, coll
 
 $Success = Location * Design + Execution$
 
+The formula is written in a way that suggests location and design interact and magnify each other when they work together well.  Execution is equally important, but independent.  A great concept can be ruined by poor execution.
+
+## Hyper local approach to underwriting
+
+### Demand drivers
+
+### Competitition
+
+### New construction
+
+## Product expertise
+
+## Critical mass
+
+## Risk management
+
+## Operational focus
+
+## Construction expertise
+
+## Entitlements expertise
+
 ## Long term hold
 
-Trading real estate is very expensive.  If you buy good properties in the first place, there is no reason to trade them.  
+Trading real estate is very expensive.  If you buy good properties in the first place, there is no reason to sell assets just to buy others.
 
-By holding properties, taxes can be deferred indefinitely and in a well structured estate plan the next generation can enjoy a new set of tax advantages through a step up in basis.
+Refinancings are very efficient liquidity events.  Since they are tax free, you may be able to generate nearly as much spendable cash from a refi as you might from a sale which imposes taxes for depreciation recapture and capital gain.
+
+In a long term hold implementation, taxes can be deferred indefinitely and in a well structured estate plan the next generation can enjoy a new set of tax advantages through a step up in basis.
 
 # What doesn't work
 
 ## Value trap
 
+Price per pound is an inadequate underwriting metric.  Sometimes things are cheap for a reason.  Real estate has "falling knives" but they fall slowly.  Some concepts become obsolete.  Sometimes people just pay too much and the next owner buying in a foreclosure should pay little attention to the discount from the last purchase price.
 Value investing is risky in real estate. Just because something is cheap, doesn't mean it's a good value. 
 
 ## Closed end fund structures
 
 Enforce an artificial time frame on properties with pressure to buy at the beginning of a fund and compelled selling at the end.  The fund time frame often aligns poorly with business cycles.
 
-# Machine learning and a big data approach to real estate
+## CAPM and VaR
 
-## Location dynamics transportation view {.tabset}
+# The future
 
-### Walkability
+## Big data and machine learning 
 
-tab content
+### What is success?
 
-### Visibility
+### Location dynamics
 
-tab content
+### Design analysis
 
-### Mass transit
+### Their interactions
 
-tab content
+### Investor implications
 
-### Automobile access
+## Leveraging technology in opeations
 
-tab content
-
-### Air travel access
-
-tab content
-
-## Location dynamics industry cluster view {.tabset}
-
-### What industries are in your neighborhood
-
-tab content
-
-### What industries does your neighborhood connect to as supplier
-
-tab content
-
-### as customer
-
-tab content
-
-
-
-
-## 
