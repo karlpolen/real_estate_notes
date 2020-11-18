@@ -169,19 +169,19 @@ I'd suggest that gross revenue (occupancy * sq ft * rental rate) is the better m
 
 ### Building a model
 
-Once you have a database of buildings, their connectivity attributes and designed attributes linked to rental outcomes you are ready to build a model.  
+Once you have a database of buildings, their connectivity attributes and design attributes linked to rental outcomes you are ready to build a model.  
 
 This is the easy part.  The work flow is pretty straight forward:
 
--- Cluster the observations to identify market segments
--- Normalize the rental outcomes within segments (to mean zero with standard deviation of 1) so they are comparable across segments.
--- Turn loose your machine learning algorithms to identify relationships that explain rents that are robust across training and testing sets and across market segments.
+- Cluster the observations to identify market segments
+- Normalize the rental outcomes within segments (to mean zero with standard deviation of 1) so they are comparable across segments.
+- Turn loose your machine learning algorithms to identify relationships that explain rents that are robust across training and testing sets and across market segments.
 
 While this is all pretty blue sky, I think it is actually implementable at far less than "moon shot" type costs.  One approach would be to pick two medium size markets, say Seattle and Denver.  I'd want one of them to have a significant global component and the other to be more local as a challenge to the robustness.  You'd then build the models independently and cross validate them within the two markets.  Finally, you'd run the Seattle model on Denver and vice versa and see how well they work in order to further fine tune them.
 
 ### Commercial implications
 
-While it is obvious that properties linked to lots of wealth and lots of talent have more potential than those don't, nobody (to my knowledge) has systematically measured these things.  If they were measured, it may be the case that you could develop predictive analytics that could quantify the potential outcomes for a property.  This could be done comprehensively (more or less) across markets of interest.  Done a proprietary way, this could be used as an "edge" to identify properties performing below potential and target them for acquisition "off market".  For widely marketed properties,
+While it is obvious that properties linked to lots of wealth and lots of talent have more potential than those don't, nobody (to my knowledge) has systematically measured these things.  If they were measured, it may be the case that you could develop predictive analytics that could quantify the potential outcomes for a property.  This could be done comprehensively (more or less) across markets of interest.  Done in a proprietary way, this could be used as an "edge" to identify properties performing below potential and target them for acquisition "off market".  For widely marketed properties,
 this technology would provide an efficient way to screen packages.
 
 ## Technology and market structure
