@@ -111,13 +111,13 @@ Some people see control as an opportunity and others see it as a necessary evil.
 
 At ASRS we invested in real estate in separate accounts and operating companies with high control features over major decisions of buying, selling and financing properties.  We also invested in "funds" where we were passive.  
 
-With experience over fifteen and billions invested, the control investments absoluted dominated the performance with returns several hundred basis points above benchmark.  The non-control investments barely kept up with benchmark.
+With experience over fifteen years and billions invested, the control investments absolutely dominated the performance with returns several hundred basis points above benchmark.  The non-control investments barely kept up with benchmark.
 
-I'm not sure why.  I suspect it's mostly behavioral.  A fund structure amounts to a ten year no-cut employment contract and perhaps that leads to complacency.  For funds that underperform their minimum return requirement and are "out of the money" on carried interest, there definitely is a breakdown in alignment of interest.  We observed again and again tht those funds drug on and on as the sponsors milked them for fees.
+I'm not sure why.  I suspect it's mostly behavioral.  A fund structure amounts to a ten year no-cut employment contract and perhaps that leads to complacency.  For funds that underperform their minimum return requirement and are "out of the money" on carried interest, there definitely is a breakdown in alignment of interest.  We observed again and again that those funds drug on and on as the sponsors milked them for fees.
 
 Additionally, fund structures force an artificial time frame with pressure to buy at the beginning of a fund and compelled selling at the end.  The fund time frame may align poorly with business cycles.
 
-You may want control, but I'd advise against giving it up.  As I've noted elsewhere, I'd suggest you see this as an opportunity and pursue operational excellence.
+You may not want control, but I'd advise against giving it up.  As I've noted elsewhere, I'd suggest you see this as an opportunity and pursue operational excellence.
 
 
 ## Long term hold
