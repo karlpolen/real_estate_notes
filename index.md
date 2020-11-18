@@ -33,7 +33,7 @@ When levered to around 50%, the expected returns of high quality real estate are
 
 ## Industry Structure
 
-One of the unique characteristics of real estate is extraordinarily local character.  If your entrepreneur with an idea for a better mousetrap for how a cell phone works, you have to take on Apple and Samsung.  Good luck.  While it's not impossible to disrupt a market like this (Apple did it to Motorola and Nokia), it can *only* be done on a global scale.  
+One of the unique characteristics of real estate is its extraordinarily local character.  If you're an entrepreneur with an idea for a better mousetrap for how a cell phone works, you have to take on Apple and Samsung.  Good luck.  While it's not impossible to disrupt a market like this (Apple did it to Motorola and Nokia), it can *only* be done on a global scale.  
 
 Contrast that to real estate, where you can be relevant and very successful on a local, even neighborhood, scale.  If you have a nuanced understanding of a place like Los Angeles, it's not one market.  It's a hundred markets and a good entrepreneur can be relevant and successful in any one of them.
 
