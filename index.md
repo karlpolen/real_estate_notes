@@ -27,7 +27,7 @@ Real estate is always there even though companies come an go.  While the stock m
 
 This makes real estate a good store of value and a reliable to earn steady rents, all of it reasonably well protected from inflation.  The yields of real estate are attractive compared to core bonds with 10yr treasury currently (late 2020) below 1%.
 
-As a bonus, the tax attributes are very favorable.  Current income is shielded from tax by depreciation.  Coupled with a well structured estate plan, taxes on capital gains can be deferred indefinitely and the next generation can enjoy a new round of tax befits through a step up in basis.
+As a bonus, the tax attributes are very favorable.  Current income is shielded from tax by depreciation.  Coupled with a well structured estate plan, taxes on capital gains can be deferred indefinitely and the next generation can enjoy a new round of tax benefits through a step up in basis.
 
 When levered to around 50%, the expected returns of high quality real estate are roughly comparable to index returns in the stock market.  So, a balanced portfolio of stocks and real estate seems attractive for income generation, capital appreciation and wealth preservation.  
 
